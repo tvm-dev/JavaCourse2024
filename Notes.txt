@@ -1,0 +1,7 @@
+Notes
+15:53 11/09/2024
+
+
+1) AutoCompletar no Eclipse: ctrl+space
+2) Zoom: ctrl + shift + "+" ou "-"
+3) 

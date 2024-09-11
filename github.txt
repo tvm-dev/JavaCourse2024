@@ -1,0 +1,22 @@
+15:28 11/09/2024
+
+1) 
+git init
+
+2) 
+git add .
+
+3) 
+git commit -m "Primeiro commit"
+
+4) 
+git remote add origin https://github.com/usuario/nome-do-repositorio.git
+
+5) 
+git push -u origin main
+
+**erros:
+1) Baixar itens do GitHub antes de fazer upload:
+git pull origin main
+
+2) 
