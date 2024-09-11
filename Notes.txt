@@ -4,4 +4,8 @@ Notes
 
 1) AutoCompletar no Eclipse: ctrl+space
 2) Zoom: ctrl + shift + "+" ou "-"
-3) 
+3) Nomes de pacotes começam com letras minúsculas!
+4) Nome de classes começam com letras maiúsculas
+5) ctrl + d: apaga a linha inteira
+6) Compilar Programa: ctrl + F11
+7) 
