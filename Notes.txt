@@ -8,4 +8,6 @@ Notes
 4) Nome de classes começam com letras maiúsculas
 5) ctrl + d: apaga a linha inteira
 6) Compilar Programa: ctrl + F11
-7) 
+7) Duplicar linha no Eclipse =>   Ctrl + Alt + Down Arrow (↓) 
+8) System.out.println shortcut => sysout + ctrl + space
+9) 
