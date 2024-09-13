@@ -3,6 +3,8 @@ package javaCurso2024;
 public class AVariablesInteger {
 	public static void main(String[] args) {
 		
+		//Give explanation to students about: case sensitive and camelCase
+
 		//Integer number:
 		int age = 12;
 		
@@ -34,6 +36,19 @@ public class AVariablesInteger {
 		//Sub before:
 		int sub2 = 15 - (3 + 2);
 		
+		float flutuantPoint = (float) 3.14;
+		
+		//For very large values, do not use int, use Long
+		long bigNumber = 5454543212134444531L;
+		
+		//For little numbers, use short:
+		short litteNumber = 3245;
+		
+		//for bit:
+		byte minimalNumber = 127; //maxim number to byte, 127! 
+		
+		
+		
 		//============= Messages ==============
 		//show variables on console:
 		System.out.println(age);
@@ -47,6 +62,9 @@ public class AVariablesInteger {
 		System.out.println(mult2);
 		System.out.println(div2);
 		System.out.println(sub2);
+		System.out.println(bigNumber);
+		System.out.println(minimalNumber);
+		System.out.println(flutuantPoint);
 		
 	}
 
