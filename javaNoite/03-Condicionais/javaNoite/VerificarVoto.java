@@ -13,11 +13,11 @@ public class VerificarVoto {
 
         // Verifica as condições para votar
         if (idade < 16) {
-            System.out.println("Proibido votar.");
+            System.out.println("Oops, você ainda não tem idade para Votar.");
         } else if ((idade >= 16 && idade < 18) || idade > 65) {
-            System.out.println("Voto facultativo.");
+            System.out.println("Opa, seu Voto é facultativo, mas vote, ajude a exercer a democracia!");
         } else if (idade >= 18 && idade <= 65) {
-            System.out.println("Voto obrigatório.");
+            System.out.println("Opaaa, seu Voto é obrigatório, senão votar, tem multa heim :)");
         }
 
         scanner.close();
