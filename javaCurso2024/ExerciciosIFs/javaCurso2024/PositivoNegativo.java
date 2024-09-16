@@ -1,3 +1,10 @@
+/*
+ * Exercício 1: Verificar se um número é positivo, negativo ou zero
+Descrição: Escreva um programa que receba um número inteiro do usuário e 
+use a estrutura if para verificar se o número é positivo, negativo ou zero. 
+O programa deve imprimir uma mensagem apropriada com base no valor fornecido.
+ * */
+
 package javaCurso2024;
 
 import java.util.Scanner;
