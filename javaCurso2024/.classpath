@@ -12,5 +12,7 @@
 	<classpathentry kind="src" path="ExerciciosIFs"/>
 	<classpathentry kind="src" path="04-caracteres"/>
 	<classpathentry kind="src" path="05-Repetitions"/>
+	<classpathentry kind="src" path="Projetos"/>
+	<classpathentry kind="src" path="JavaBank"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
