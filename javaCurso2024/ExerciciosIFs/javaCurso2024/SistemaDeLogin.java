@@ -6,7 +6,7 @@ public class SistemaDeLogin {
     public static void main(String[] args) {
         // Variáveis fixas de nome de usuário e senha
         String usuarioCorreto = "admin";
-        String senhaCorreta = "12345";
+        String senhaCorreta = "123";
         
         // Número máximo de tentativas
         int tentativasMaximas = 3;
