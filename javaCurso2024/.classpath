@@ -11,5 +11,6 @@
 	<classpathentry kind="src" path="03-condicionais"/>
 	<classpathentry kind="src" path="ExerciciosIFs"/>
 	<classpathentry kind="src" path="04-caracteres"/>
+	<classpathentry kind="src" path="05-Repetitions"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
