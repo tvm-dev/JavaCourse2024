@@ -5,14 +5,13 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="01-HelloWorld"/>
 	<classpathentry kind="src" path="02-Variables"/>
 	<classpathentry kind="src" path="03-condicionais"/>
 	<classpathentry kind="src" path="ExerciciosIFs"/>
 	<classpathentry kind="src" path="04-caracteres"/>
 	<classpathentry kind="src" path="05-Repetitions"/>
-	<classpathentry kind="src" path="Projetos"/>
 	<classpathentry kind="src" path="JavaBank"/>
+	<classpathentry kind="src" path="06-ClasseComMetodos"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
