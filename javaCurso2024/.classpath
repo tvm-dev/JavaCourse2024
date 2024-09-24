@@ -13,5 +13,8 @@
 	<classpathentry kind="src" path="05-Repetitions"/>
 	<classpathentry kind="src" path="JavaBank"/>
 	<classpathentry kind="src" path="06-ClasseComMetodos"/>
+	<classpathentry kind="src" path="Exercicios"/>
+	<classpathentry kind="src" path="02-Intermediario"/>
+	<classpathentry kind="src" path="Arrays"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
