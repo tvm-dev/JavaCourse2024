@@ -16,5 +16,6 @@
 	<classpathentry kind="src" path="Exercicios"/>
 	<classpathentry kind="src" path="02-Intermediario"/>
 	<classpathentry kind="src" path="Arrays"/>
+	<classpathentry kind="src" path="Strings"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
